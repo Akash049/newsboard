@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="material_blue_background">#2196F3</color>
+    <color name="sub_blue_color">#66a6ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="star_yellow">#ffdf00</color>
+
+    <color name="header_green">#689F38</color>
+    <color name="success_green">#4CAF50</color>
+
+
+    <!-- Conversation Box -->
+    <color name="light_grey">#90A4AE</color>
+
+    <color name="progress_good">#43a047</color>
+    <color name="progress_avg">#5c6bc0</color>
+    <color name="progress_bad">#ff5722</color>
+    <color name="darg_grey">#455A64</color>
+
+
+
+    <!-- GPlus colors-->
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+</resources>
